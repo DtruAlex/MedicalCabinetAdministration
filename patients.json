@@ -1,0 +1,20 @@
+{
+    "patients": [
+        {
+            "CNP": "41235135",
+            "chronic_disease": [],
+            "diagnosis": [
+                "Apendixitus"
+            ],
+            "name": "Vasile Ioan Enescu",
+            "past_interventions": []
+        },
+        {
+            "CNP": "1425131613",
+            "chronic_disease": [],
+            "diagnosis": [],
+            "name": "Vaslic Ulemnescu",
+            "past_interventions": []
+        }
+    ]
+}

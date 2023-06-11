@@ -1,0 +1,10 @@
+{
+    "inventory": [
+        {
+            "categories": "Medicine",
+            "name": "Vacilinus",
+            "price": 12.31,
+            "quantity": 119800
+        }
+    ]
+}
